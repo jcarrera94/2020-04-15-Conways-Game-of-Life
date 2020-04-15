@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2020-04-15-Conways-Game-of-Life/static/css/main.fd0a79bf.chunk.css",
+    "main.js": "/2020-04-15-Conways-Game-of-Life/static/js/main.2ba6c885.chunk.js",
+    "main.js.map": "/2020-04-15-Conways-Game-of-Life/static/js/main.2ba6c885.chunk.js.map",
+    "runtime-main.js": "/2020-04-15-Conways-Game-of-Life/static/js/runtime-main.0e174200.js",
+    "runtime-main.js.map": "/2020-04-15-Conways-Game-of-Life/static/js/runtime-main.0e174200.js.map",
+    "static/js/2.27bbeaec.chunk.js": "/2020-04-15-Conways-Game-of-Life/static/js/2.27bbeaec.chunk.js",
+    "static/js/2.27bbeaec.chunk.js.map": "/2020-04-15-Conways-Game-of-Life/static/js/2.27bbeaec.chunk.js.map",
+    "index.html": "/2020-04-15-Conways-Game-of-Life/index.html",
+    "precache-manifest.4c17442299c73fe369b185a003620c3b.js": "/2020-04-15-Conways-Game-of-Life/precache-manifest.4c17442299c73fe369b185a003620c3b.js",
+    "service-worker.js": "/2020-04-15-Conways-Game-of-Life/service-worker.js",
+    "static/css/main.fd0a79bf.chunk.css.map": "/2020-04-15-Conways-Game-of-Life/static/css/main.fd0a79bf.chunk.css.map",
+    "static/js/2.27bbeaec.chunk.js.LICENSE.txt": "/2020-04-15-Conways-Game-of-Life/static/js/2.27bbeaec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e174200.js",
+    "static/js/2.27bbeaec.chunk.js",
+    "static/css/main.fd0a79bf.chunk.css",
+    "static/js/main.2ba6c885.chunk.js"
+  ]
+}
